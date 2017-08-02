@@ -1,0 +1,287 @@
+/* Lab6 a*/
+Name ; Surename
+"Denis";"Villeneuve"
+
+/* Lab6 b*/
+/* Changed From David Lynch to Steven Spielberg */
+Title
+"Bridge of Spies"
+
+/* Lab6 c*/
+Name ; Surename ; CAD
+"Michael";"Fassbender";$39,330,000.00
+"Kate";"Winslet";$39,330,000.00
+"Seth";"Rogen";$39,330,000.00
+"Tom";"Hanks";$52,440,000.00
+"Mark";"Rylance";$52,440,000.00
+"Alan";"Alda";$52,440,000.00
+"Matt";"Damon";$141,588,000.00
+"Jessica";"Chastain";$141,588,000.00
+"Kristen";"Wiig";$141,588,000.00
+"Robert";"De Niro";$52,440,000.00
+"Anne";"Hathaway";$52,440,000.00
+"Rene";"Russo";$52,440,000.00
+"Emily";"Blunt";$39,330,000.00
+"Josh";"Brolin";$39,330,000.00
+"Benicio";"Del Toro";$39,330,000.00
+"Caleb";"Castille";$32,775,000.00
+"Sean";"Astin";$32,775,000.00
+"Jon";"Voight";$32,775,000.00
+"Amy";"Poehler";$229,425,000.00
+"Bill";"Hader";$229,425,000.00
+"Lewis";"Black";$229,425,000.00
+"Matthew";"McConaughey";$216,315,000.00
+"Anne";"Hathaway";$216,315,000.00
+"Jessica";"Chastain";$216,315,000.00
+"Benedict";"Cumberbatch";$18,354,000.00
+"Keira";"Knightley";$18,354,000.00
+"Matthew";"Goode";$18,354,000.00
+"Chris";"Pratt";$256,824,900.00
+"Vin";"Diesel";$256,824,900.00
+"Bradley";"Cooper";$256,824,900.00
+
+Name ; Surename ; JPY
+"Michael";"Fassbender";$3,634,950,000.00
+"Kate";"Winslet";$3,634,950,000.00
+"Seth";"Rogen";$3,634,950,000.00
+"Tom";"Hanks";$4,846,600,000.00
+"Mark";"Rylance";$4,846,600,000.00
+"Alan";"Alda";$4,846,600,000.00
+"Matt";"Damon";$13,085,820,000.00
+"Jessica";"Chastain";$13,085,820,000.00
+"Kristen";"Wiig";$13,085,820,000.00
+"Robert";"De Niro";$4,846,600,000.00
+"Anne";"Hathaway";$4,846,600,000.00
+"Rene";"Russo";$4,846,600,000.00
+"Emily";"Blunt";$3,634,950,000.00
+"Josh";"Brolin";$3,634,950,000.00
+"Benicio";"Del Toro";$3,634,950,000.00
+"Caleb";"Castille";$3,029,125,000.00
+"Sean";"Astin";$3,029,125,000.00
+"Jon";"Voight";$3,029,125,000.00
+"Amy";"Poehler";$21,203,875,000.00
+"Bill";"Hader";$21,203,875,000.00
+"Lewis";"Black";$21,203,875,000.00
+"Matthew";"McConaughey";$19,992,225,000.00
+"Anne";"Hathaway";$19,992,225,000.00
+"Jessica";"Chastain";$19,992,225,000.00
+"Benedict";"Cumberbatch";$1,696,310,000.00
+"Keira";"Knightley";$1,696,310,000.00
+"Matthew";"Goode";$1,696,310,000.00
+"Chris";"Pratt";$23,736,223,500.00
+"Vin";"Diesel";$23,736,223,500.00
+"Bradley";"Cooper";$23,736,223,500.00
+
+Name ; Surename ; RUB
+"Michael";"Fassbender";$1,886,700,000.00
+"Kate";"Winslet";$1,886,700,000.00
+"Seth";"Rogen";$1,886,700,000.00
+"Tom";"Hanks";$2,515,600,000.00
+"Mark";"Rylance";$2,515,600,000.00
+"Alan";"Alda";$2,515,600,000.00
+"Matt";"Damon";$6,792,120,000.00
+"Jessica";"Chastain";$6,792,120,000.00
+"Kristen";"Wiig";$6,792,120,000.00
+"Robert";"De Niro";$2,515,600,000.00
+"Anne";"Hathaway";$2,515,600,000.00
+"Rene";"Russo";$2,515,600,000.00
+"Emily";"Blunt";$1,886,700,000.00
+"Josh";"Brolin";$1,886,700,000.00
+"Benicio";"Del Toro";$1,886,700,000.00
+"Caleb";"Castille";$1,572,250,000.00
+"Sean";"Astin";$1,572,250,000.00
+"Jon";"Voight";$1,572,250,000.00
+"Amy";"Poehler";$11,005,750,000.00
+"Bill";"Hader";$11,005,750,000.00
+"Lewis";"Black";$11,005,750,000.00
+"Matthew";"McConaughey";$10,376,850,000.00
+"Anne";"Hathaway";$10,376,850,000.00
+"Jessica";"Chastain";$10,376,850,000.00
+"Benedict";"Cumberbatch";$880,460,000.00
+"Keira";"Knightley";$880,460,000.00
+"Matthew";"Goode";$880,460,000.00
+"Chris";"Pratt";$12,320,151,000.00
+"Vin";"Diesel";$12,320,151,000.00
+"Bradley";"Cooper";$12,320,151,000.00
+
+Name ; Surename ; EUR
+"Michael";"Fassbender";$27,300,000.00
+"Kate";"Winslet";$27,300,000.00
+"Seth";"Rogen";$27,300,000.00
+"Tom";"Hanks";$36,400,000.00
+"Mark";"Rylance";$36,400,000.00
+"Alan";"Alda";$36,400,000.00
+"Matt";"Damon";$98,280,000.00
+"Jessica";"Chastain";$98,280,000.00
+"Kristen";"Wiig";$98,280,000.00
+"Robert";"De Niro";$36,400,000.00
+"Anne";"Hathaway";$36,400,000.00
+"Rene";"Russo";$36,400,000.00
+"Emily";"Blunt";$27,300,000.00
+"Josh";"Brolin";$27,300,000.00
+"Benicio";"Del Toro";$27,300,000.00
+"Caleb";"Castille";$22,750,000.00
+"Sean";"Astin";$22,750,000.00
+"Jon";"Voight";$22,750,000.00
+"Amy";"Poehler";$159,250,000.00
+"Bill";"Hader";$159,250,000.00
+"Lewis";"Black";$159,250,000.00
+"Matthew";"McConaughey";$150,150,000.00
+"Anne";"Hathaway";$150,150,000.00
+"Jessica";"Chastain";$150,150,000.00
+"Benedict";"Cumberbatch";$12,740,000.00
+"Keira";"Knightley";$12,740,000.00
+"Matthew";"Goode";$12,740,000.00
+"Chris";"Pratt";$178,269,000.00
+"Vin";"Diesel";$178,269,000.00
+"Bradley";"Cooper";$178,269,000.00
+
+Name ; Surename ; CHF
+"Michael";"Fassbender";$29,700,000.00
+"Kate";"Winslet";$29,700,000.00
+"Seth";"Rogen";$29,700,000.00
+"Tom";"Hanks";$39,600,000.00
+"Mark";"Rylance";$39,600,000.00
+"Alan";"Alda";$39,600,000.00
+"Matt";"Damon";$106,920,000.00
+"Jessica";"Chastain";$106,920,000.00
+"Kristen";"Wiig";$106,920,000.00
+"Robert";"De Niro";$39,600,000.00
+"Anne";"Hathaway";$39,600,000.00
+"Rene";"Russo";$39,600,000.00
+"Emily";"Blunt";$29,700,000.00
+"Josh";"Brolin";$29,700,000.00
+"Benicio";"Del Toro";$29,700,000.00
+"Caleb";"Castille";$24,750,000.00
+"Sean";"Astin";$24,750,000.00
+"Jon";"Voight";$24,750,000.00
+"Amy";"Poehler";$173,250,000.00
+"Bill";"Hader";$173,250,000.00
+"Lewis";"Black";$173,250,000.00
+"Matthew";"McConaughey";$163,350,000.00
+"Anne";"Hathaway";$163,350,000.00
+"Jessica";"Chastain";$163,350,000.00
+"Benedict";"Cumberbatch";$13,860,000.00
+"Keira";"Knightley";$13,860,000.00
+"Matthew";"Goode";$13,860,000.00
+"Chris";"Pratt";$193,941,000.00
+"Vin";"Diesel";$193,941,000.00
+"Bradley";"Cooper";$193,941,000.00
+
+
+/* Lab6 d*/
+Name;Surename
+"Pete";"Docter"
+"Ronnie";"Del Carmen"
+
+/* Lab6 e*/
+Title ; Name ; Surename
+"The Intern";"Anne";"Hathaway"
+
+/* Lab6 f*/
+Surename ; Surename
+"Fassbender";"Winslet"
+"Fassbender";"Hanks"
+"Fassbender";"Rylance"
+"Fassbender";"Wiig"
+"Fassbender";"Russo"
+"Fassbender";"Voight"
+"Fassbender";"Poehler"
+"Fassbender";"McConaughey"
+"Fassbender";"Goode"
+"Hanks";"Winslet"
+"Hanks";"Rylance"
+"Hanks";"Wiig"
+"Hanks";"Russo"
+"Hanks";"Voight"
+"Hanks";"Poehler"
+"Hanks";"McConaughey"
+"Rylance";"Winslet"
+"Rylance";"Wiig"
+"Rylance";"Voight"
+"Alda";"Fassbender"
+"Alda";"Winslet"
+"Alda";"Hanks"
+"Alda";"Rylance"
+"Alda";"Damon"
+"Alda";"Wiig"
+"Alda";"Russo"
+"Alda";"Blunt"
+"Alda";"Voight"
+"Alda";"Poehler"
+"Alda";"McConaughey"
+"Alda";"Cumberbatch"
+"Alda";"Goode"
+"Alda";"Cooper"
+"Damon";"Fassbender"
+"Damon";"Winslet"
+"Damon";"Hanks"
+"Damon";"Rylance"
+"Damon";"Wiig"
+"Damon";"Russo"
+"Damon";"Voight"
+"Damon";"Poehler"
+"Damon";"McConaughey"
+"Damon";"Goode"
+"Wiig";"Winslet"
+"Russo";"Winslet"
+"Russo";"Rylance"
+"Russo";"Wiig"
+"Russo";"Voight"
+"Blunt";"Fassbender"
+"Blunt";"Winslet"
+"Blunt";"Hanks"
+"Blunt";"Rylance"
+"Blunt";"Damon"
+"Blunt";"Wiig"
+"Blunt";"Russo"
+"Blunt";"Voight"
+"Blunt";"Poehler"
+"Blunt";"McConaughey"
+"Blunt";"Cumberbatch"
+"Blunt";"Goode"
+"Blunt";"Cooper"
+"Voight";"Winslet"
+"Voight";"Wiig"
+"Poehler";"Winslet"
+"Poehler";"Rylance"
+"Poehler";"Wiig"
+"Poehler";"Russo"
+"Poehler";"Voight"
+"McConaughey";"Winslet"
+"McConaughey";"Rylance"
+"McConaughey";"Wiig"
+"McConaughey";"Russo"
+"McConaughey";"Voight"
+"McConaughey";"Poehler"
+"Cumberbatch";"Fassbender"
+"Cumberbatch";"Winslet"
+"Cumberbatch";"Hanks"
+"Cumberbatch";"Rylance"
+"Cumberbatch";"Damon"
+"Cumberbatch";"Wiig"
+"Cumberbatch";"Russo"
+"Cumberbatch";"Voight"
+"Cumberbatch";"Poehler"
+"Cumberbatch";"McConaughey"
+"Cumberbatch";"Goode"
+"Goode";"Winslet"
+"Goode";"Hanks"
+"Goode";"Rylance"
+"Goode";"Wiig"
+"Goode";"Russo"
+"Goode";"Voight"
+"Goode";"Poehler"
+"Goode";"McConaughey"
+"Cooper";"Fassbender"
+"Cooper";"Winslet"
+"Cooper";"Hanks"
+"Cooper";"Rylance"
+"Cooper";"Damon"
+"Cooper";"Wiig"
+"Cooper";"Russo"
+"Cooper";"Voight"
+"Cooper";"Poehler"
+"Cooper";"McConaughey"
+"Cooper";"Cumberbatch"
+"Cooper";"Goode"

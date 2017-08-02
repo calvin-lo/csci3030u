@@ -1,0 +1,55 @@
+/*Lab7 a*/
+Average_Age
+46.8888888888889
+
+/*Lab7 b*/
+/* Changed from Beautiful Mind to Bridge of Spies*/
+count
+2
+
+/*Lab7 c*/
+count
+2
+
+/*Lab7 d*/
+/* Changed from Brad Pitt to Anne Hathaway*/
+Count
+2
+
+/*Lab7 e*/
+Type;Min;Avg;Max
+"Action";$30,000,000.00;$112,950,000.00;$195,900,000.00
+"Comedy";$40,000,000.00;$40,000,000.00;$40,000,000.00
+"Adventure";$108,000,000.00;$136,500,000.00;$165,000,000.00
+"Drama";$25,000,000.00;$25,000,000.00;$25,000,000.00
+"Animation";$175,000,000.00;$175,000,000.00;$175,000,000.00
+"Biography";$14,000,000.00;$28,000,000.00;$40,000,000.00
+
+
+/*Lab7 f*/
+/* Changed from Toronto to London */
+Name;Title;Rating
+"Danny";"Steve Jobs";7
+"Steven";"Bridge of Spies";8
+"Nancy";"The Intern";8
+"Denis";"Sicario";8
+"Andrew";"Woodlawn";7
+"Jon";"Woodlawn";7
+"Ronnie";"Inside Out";9
+"Christopher";"Interstellar";9
+"James";"Guardians of the Galaxy";8
+
+/*Lab7 g*/
+Title
+"Bridge of Spies"
+"Sicario"
+"Steve Jobs"
+
+/*Lab7 h*/
+Name;Surename;count
+"Kate";"Winslet";1
+"Mark";"Rylance";1
+"Emily";"Blunt";1
+"Benedict";"Cumberbatch";1
+"Keira";"Knightley";1
+"Matthew";"Goode";1
